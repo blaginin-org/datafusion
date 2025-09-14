@@ -50,7 +50,7 @@ firefox build/html/index.html
 ## Making Changes
 
 To make changes to the docs, simply make a Pull Request with your
-proposed changes as normal. When the PR is merged the docs will be
+proposed changes as normal. When the PR is merged, the docs will be
 automatically updated.
 
 ## Release Process
